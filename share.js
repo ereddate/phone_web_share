@@ -161,7 +161,7 @@ var share = function($, selector, ops) {
 				break;
 			case "qq":
 				window.location.href = toStr("mqqapi://share/to_fri?src_type=web&version=1&file_type=news", {
-					share_id: "1101685683",
+					share_id: "18900360",
 					title: Base64.encode(title),
 					thirdAppDisplayName: Base64.encode("http://www.hexun.com"),
 					url: Base64.encode(url)
